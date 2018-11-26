@@ -7,9 +7,11 @@ li {
   display: inline;
 }
 .contact li{
-  padding: 60px 60px 60px 60px;
+  padding: 100px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
+}
+.jumbotron {background-image: url("http://s2.r29static.com//bin/entry/ec5/720x900,80/2076411/image.jpg")
 }
 a {
   color: purple;
@@ -21,20 +23,14 @@ a:visited {
 a:hover {
     color: turquoise;
 }
-.contact {
-  background-color: black;
-  background-size: 50px;
-  padding: 20px 0px 20px 0px;
-  color: white;
-}
 h1 {
   font-size: 40px
-}
-@media (max-width: 500px) {
 }
 .banner img {
   width: 300px;
   height: 300px;
   position: relative;
   padding-left: 20px;
+}
+@media (max-width: 500px) {
 }
