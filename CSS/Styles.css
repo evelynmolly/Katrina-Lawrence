@@ -23,10 +23,10 @@ a {
   text-decoration: underline;
 }
 a:visited {
-    color: white;
+    color: black;
 }
 a:hover {
-    color: turquoise;
+    color: grey;
 }
 h1 {
   font-size: 40px
